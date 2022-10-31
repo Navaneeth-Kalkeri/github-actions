@@ -1,0 +1,11 @@
+shell script merged blank file from here
+echo
+java --version
+echo
+git --version
+echo
+du -sh
+echo
+free -m
+echo
+uname -r
